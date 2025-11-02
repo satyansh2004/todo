@@ -112,6 +112,20 @@ button {
     color: #fff;
 }
 
+.foot {
+    background: #272727;
+    color: #f1f1f1;
+    padding: 15px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
+.foot a{
+    color: rgb(87, 87, 255);
+}
+
 
 
 @media (max-width: 1200px) {
